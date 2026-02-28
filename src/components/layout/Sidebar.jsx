@@ -12,7 +12,7 @@ import {
 import { useContext } from "react";
 import { AuthContext } from "../../context/AuthContext";
 import { useNavigate } from "react-router-dom";
-import bgImage from "/Users/Asus/login_dashboard/src/assets/cardbg.jpg"
+import bgImage from "@/assets/cardbg.jpg"
 
 const Sidebar = ({ isOpen, setIsOpen }) => {
     const { logout } = useContext(AuthContext);

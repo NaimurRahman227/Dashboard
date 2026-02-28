@@ -1,5 +1,5 @@
 import {Square, Pause } from "lucide-react";
-import bgImage from "/Users/Asus/login_dashboard/src/assets/cardbg.jpg"
+import bgImage from "@/assets/cardbg.jpg"
 
 const TimeTracker = () => {
   return (
