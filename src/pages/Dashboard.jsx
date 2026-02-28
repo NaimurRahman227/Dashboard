@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import api from "../api/axios";
-import Layout from "../components/layout/layout";
+import Layout from "@/components/layout/Layout";
 import DashboardGrid from "../components/dashboard/DashboardGrid";
 import StatsSection from "../components/dashboard/StatsSection";
 
